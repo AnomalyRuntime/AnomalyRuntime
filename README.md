@@ -73,7 +73,7 @@ title My Journey
   : OS Development
   : CLI App Development
 ```   
-
+>**NOTE**: I am still learining some languages listed!   
 ---
 
 ### 🤝 Contributions & Community  
