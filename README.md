@@ -20,7 +20,8 @@ Welcome to my GitHub profile! I’m **LolgamerHD** 🎮, a passionate developer 
   - Server configurations, automation scripts, or programming in general!  
 
 - 📫 How to reach me:  
-  - Email: [linus@syncwi.de](mailto:linus@syncwi.de)  
+  - Buisness Email: [linus@syncwi.de](mailto:linus@syncwi.de)
+  - Private Email: [i-am@lolgamerhd.de](mailto:i-am@lolgamerhd.de)
 
 - ⚡ Fun fact:  
   - I enjoy optimizing server workflows as much as I love gaming!  
