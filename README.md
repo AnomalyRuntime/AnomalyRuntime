@@ -41,7 +41,7 @@ I'm a passionate developer from Germany 🇩🇪 specializing in **OS developmen
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Infrastructure
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -147,7 +147,7 @@ If you find my projects helpful or interesting:
 <div align="center">
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
-### 💡 "When you're coding you will always learn something, even if you mastered a language." - LolgamerHD
+### 💡 "When you're coding you will always learn something, even if you have mastered a language." - LolgamerHD
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LolgamerHDDE&color=blueviolet&style=flat-square)
 
