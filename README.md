@@ -5,7 +5,6 @@
 ### Software Developer | OS Enthusiast | Server Administrator
 
 [![GitHub followers](https://img.shields.io/github/followers/LolgamerHDDE?style=social)](https://github.com/LolgamerHDDE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/LolgamerHD?style=social)](https://twitter.com/LolgamerHD)
 
 </div>
 
@@ -42,6 +41,7 @@ I'm a passionate developer from Germany 🇩🇪 specializing in **OS developmen
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Infrastructure
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -53,19 +53,19 @@ I'm a passionate developer from Germany 🇩🇪 specializing in **OS developmen
 
 ## 🎯 Current Projects
 
-### 🖥️ [SyncWide OS](https://github.com/SyncWide-Solutions/SyncWide-Configurator)
+### 🖥️ [SyncWide OS](https://github.com/SyncWide-Solutions/SyncWideOS)
 A modern, efficient server operating system built from scratch with custom UEFI bootloader and kernel.
 - **Tech:** C, Assembly, UEFI
 - **Features:** Custom kernel, driver support, optimized for server environments
 
-### ⚡ [24fire CLI Tool](https://github.com/SyncWide-Solutions/24fire-api-cli)
+### ⚡ [24fire CLI Tool](https://github.com/LolgamerHDDE/24fire-api-cli)
 Command-line interface for managing 24fire hosting services directly from the terminal.
 - **Tech:** Python
 - **Features:** API integration, server management, automation tools
 
 ### 🎮 Horror Game Project
 An atmospheric horror game inspired by Bendy and the Ink Machine.
-- **Tech:** Unreal Engine, C++
+- **Tech:** Unity, C++
 - **Status:** In active development
 
 ---
@@ -127,7 +127,6 @@ I'm always interested in collaborating on interesting projects, especially in:
 
 ### 📫 Reach Me
 
-- 💼 **Business:** [linus@syncwi.de](mailto:linus@syncwi.de)
 - 📧 **Personal:** [i-am@lolgamerhd.de](mailto:i-am@lolgamerhd.de)
 - 🌐 **Website:** [lolgamerhd.de](https://about.lolgamerhd.de)
 - 💬 **Discord:** [dc.lukas-keller.org](https://dc.lukas-keller.org)
@@ -148,6 +147,7 @@ If you find my projects helpful or interesting:
 <div align="center">
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 💡 "When you're coding you will always learn something, even if you mastered a language." - LolgamerHD
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LolgamerHDDE&color=blueviolet&style=flat-square)
 
