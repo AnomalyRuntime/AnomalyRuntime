@@ -14,7 +14,7 @@
 
 I'm a passionate developer from Germany 🇩🇪 specializing in **OS development**, **server infrastructure**, and **full-stack programming**. Currently exploring the depths of low-level programming while building practical tools and applications.
 
-- 🔭 **Currently working on:** SyncWide OS - A modern, efficient server operating system
+- 🔭 **Currently working on:** URAN - An atmospheric horror game inspired by Bendy and the Ink Machine.
 - 🌱 **Learning:** Advanced OS development, C/C++, and UEFI programming
 - 💼 **Experience:** Python, PHP, HTML, Lua, and system administration
 - 🎮 **Hobbies:** Game development, music production, and hardware optimization
@@ -63,7 +63,7 @@ Command-line interface for managing 24fire hosting services directly from the te
 - **Tech:** Python
 - **Features:** API integration, server management, automation tools
 
-### 🎮 Horror Game Project
+### 🎮 URAN
 An atmospheric horror game inspired by Bendy and the Ink Machine.
 - **Tech:** Unity, C++
 - **Status:** In active development
