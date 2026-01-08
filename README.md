@@ -1,96 +1,160 @@
-# Hi there 👋  
+<div align="center">
 
-Welcome to my GitHub profile! I’m **LolgamerHD** 🎮, a passionate developer and tech enthusiast. Here's a little about what I do and what you can find here!  
+# 👋 Hi, I'm LolgamerHD
 
----
+### Software Developer | OS Enthusiast | Server Administrator
 
-### 🌟 About Me  
+[![GitHub followers](https://img.shields.io/github/followers/LolgamerHDDE?style=social)](https://github.com/LolgamerHDDE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/LolgamerHD?style=social)](https://twitter.com/LolgamerHD)
 
-- 🔭 I’m currently working on:  
-  - **24fire CLI**: Getting Information from the 24fire API directly from the Command Line.
-  - **SyncWide OS**: Efficient and easy to use Server OS.
-
-- 🌱 I’m currently learning:  
-  - OS Development and C.  
-
-- 👯 I’m looking to collaborate on:  
-  - Python Development.
-
-- 💬 Ask me about:  
-  - Server configurations, automation scripts, or programming in general!  
-
-- 📫 How to reach me:  
-  - Buisness Email: [linus@syncwi.de](mailto:linus@syncwi.de)
-  - Private Email: [i-am@lolgamerhd.de](mailto:i-am@lolgamerhd.de)
-
-- ⚡ Fun fact:  
-  - I enjoy optimizing server workflows as much as I love gaming!  
+</div>
 
 ---
 
-### 📌 Pinned Repositories  
+## 🚀 About Me
 
-Here are some projects I’m proud of (click the images to explore!):  
+I'm a passionate developer from Germany 🇩🇪 specializing in **OS development**, **server infrastructure**, and **full-stack programming**. Currently exploring the depths of low-level programming while building practical tools and applications.
 
-[![SyncWide Configurator](https://github-readme-stats.vercel.app/api/pin/?username=SyncWide-Solutions&repo=SyncWide-Configurator)](https://github.com/SyncWide-Solutions/SyncWide-Configurator) [![24fire CLI Tool](https://github-readme-stats.vercel.app/api/pin/?username=SyncWide-Solutions&repo=24fire-api-cli)](https://github.com/SyncWide-Solutions/24fire-api-cli)    
+- 🔭 **Currently working on:** SyncWide OS - A modern, efficient server operating system
+- 🌱 **Learning:** Advanced OS development, C/C++, and UEFI programming
+- 💼 **Experience:** Python, PHP, HTML, Lua, and system administration
+- 🎮 **Hobbies:** Game development, music production, and hardware optimization
+- 🎯 **Goal:** Contributing to open-source and building developer tools
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Technologies & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+### Infrastructure
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-4285F4?style=for-the-badge&logo=googledns&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 
 ---
 
-### 🛠️ Skills & Tools  
+## 🎯 Current Projects
 
-#### Programming Languages  
-- Python 🐍 | LUA | C | ASM | PHP | HTML | CSS
+### 🖥️ [SyncWide OS](https://github.com/SyncWide-Solutions/SyncWide-Configurator)
+A modern, efficient server operating system built from scratch with custom UEFI bootloader and kernel.
+- **Tech:** C, Assembly, UEFI
+- **Features:** Custom kernel, driver support, optimized for server environments
 
-#### Tools & Technologies  
-- VS Code | QEMU | Bochs
+### ⚡ [24fire CLI Tool](https://github.com/SyncWide-Solutions/24fire-api-cli)
+Command-line interface for managing 24fire hosting services directly from the terminal.
+- **Tech:** Python
+- **Features:** API integration, server management, automation tools
 
-#### OS & Infrastructure  
-- Windows | Linux
+### 🎮 Horror Game Project
+An atmospheric horror game inspired by Bendy and the Ink Machine.
+- **Tech:** Unreal Engine, C++
+- **Status:** In active development
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![LolgamerHD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LolgamerHDDE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LolgamerHDDE&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LolgamerHDDE&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌟 Featured Repositories
+
+<div align="center">
+
+[![SyncWide Configurator](https://github-readme-stats.vercel.app/api/pin/?username=SyncWide-Solutions&repo=SyncWide-Configurator&theme=tokyonight&hide_border=true)](https://github.com/SyncWide-Solutions/SyncWide-Configurator)
+[![24fire CLI](https://github-readme-stats.vercel.app/api/pin/?username=SyncWide-Solutions&repo=24fire-api-cli&theme=tokyonight&hide_border=true)](https://github.com/SyncWide-Solutions/24fire-api-cli)
+
+</div>
+
+---
+
+## 🎓 Learning Journey
 
 ```mermaid
 timeline
-title My Journey
-9 Years Old
-  : HTML
-  : CSS
-  : Javascript
-10 Years Old
-  : Python
-  : Discord.py
-11 Years Old
-  : Linux
-  : Lua
-  : NodeJS
-12 Years Old
-  : Java
-13 Years Old
-  : Unity
-  : ASM
-  : C
-  : C#
-14 Years Old
-  : OS Development
-  : CLI App Development
-```   
->**NOTE**: I am still learining some languages listed!   
----
+    title My Development Journey
+    section Early Years
+        9 Years Old : Started with HTML/CSS/JavaScript
+    section Foundation
+        10 Years Old : Python & Discord.py
+    section Expansion
+        11 Years Old : Linux, Lua, NodeJS
+        12 Years Old : Java Development
+    section Advanced
+        13 Years Old : Unity, Assembly, C, C#
+    section Professional
+        14 Years Old : OS Development & CLI Tools
+```
 
-### 🤝 Contributions & Community  
-
-- 🌍 Contributor to open-source initiatives.  
-- 🤝 Looking for collaborations in OS and Python Development.  
+> **Note:** Continuously learning and expanding my skill set!
 
 ---
 
-### 💡 Support  
+## 🤝 Let's Connect!
 
-If you find my work helpful and would like to support, you can:  
+I'm always interested in collaborating on interesting projects, especially in:
+- 🖥️ **Operating System Development**
+- 🐍 **Python Applications**
+- 🎮 **Game Development**
+- 🔧 **Developer Tools & CLI Applications**
 
-- ⭐ Star my repositories!  
-- [Buy Me a Coffee ☕](https://buymeacoffee.com/LolgamerHD)  
+### 📫 Reach Me
+
+- 💼 **Business:** [linus@syncwi.de](mailto:linus@syncwi.de)
+- 📧 **Personal:** [i-am@lolgamerhd.de](mailto:i-am@lolgamerhd.de)
+- 🌐 **Website:** [syncwi.de](https://syncwi.de)
+- 💬 **Discord:** Available on request
 
 ---
 
-Feel free to explore and connect with me! 🚀  
+## 💖 Support My Work
+
+If you find my projects helpful or interesting:
+
+- ⭐ **Star** my repositories
+- 🐛 **Report** bugs and issues
+- 🔀 **Contribute** via pull requests
+- ☕ [**Buy Me a Coffee**](https://buymeacoffee.com/LolgamerHD)
+
+---
+
+<div align="center">
+
+### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=LolgamerHDDE&color=blueviolet&style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+<sub>⚡ Powered by passion for technology and endless curiosity</sub>
+</div>
