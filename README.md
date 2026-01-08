@@ -129,8 +129,8 @@ I'm always interested in collaborating on interesting projects, especially in:
 
 - 💼 **Business:** [linus@syncwi.de](mailto:linus@syncwi.de)
 - 📧 **Personal:** [i-am@lolgamerhd.de](mailto:i-am@lolgamerhd.de)
-- 🌐 **Website:** [syncwi.de](https://syncwi.de)
-- 💬 **Discord:** Available on request
+- 🌐 **Website:** [lolgamerhd.de](https://about.lolgamerhd.de)
+- 💬 **Discord:** [dc.lukas-keller.org](https://dc.lukas-keller.org)
 
 ---
 
