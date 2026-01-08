@@ -58,7 +58,7 @@ A modern, efficient server operating system built from scratch with custom UEFI 
 - **Tech:** C, Assembly, UEFI
 - **Features:** Custom kernel, driver support, optimized for server environments
 
-### ⚡ [24fire CLI Tool](https://github.com/Anomaly RuntimeDE/24fire-api-cli)
+### ⚡ [24fire CLI Tool](https://github.com/AnomalyRuntime/24fire-api-cli)
 Command-line interface for managing 24fire hosting services directly from the terminal.
 - **Tech:** Python
 - **Features:** API integration, server management, automation tools
@@ -74,11 +74,11 @@ An atmospheric horror game inspired by Bendy and the Ink Machine.
 
 <div align="center">
 
-![Anomaly Runtime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anomaly RuntimeDE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Anomaly Runtime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnomalyRuntime&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anomaly RuntimeDE&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnomalyRuntime&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anomaly RuntimeDE&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnomalyRuntime&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -89,7 +89,7 @@ An atmospheric horror game inspired by Bendy and the Ink Machine.
 <div align="center">
 
 [![SyncWide Configurator](https://github-readme-stats.vercel.app/api/pin/?username=SyncWide-Solutions&repo=SyncWide-Configurator&theme=tokyonight&hide_border=true)](https://github.com/SyncWide-Solutions/SyncWide-Configurator)
-[![24fire CLI](https://github-readme-stats.vercel.app/api/pin/?username=SyncWide-Solutions&repo=24fire-api-cli&theme=tokyonight&hide_border=true)](https://github.com/SyncWide-Solutions/24fire-api-cli)
+[![24fire CLI](https://github-readme-stats.vercel.app/api/pin/?username=AnomalyRuntime&repo=24fire-api-cli&theme=tokyonight&hide_border=true)](https://github.com/AnomalyRuntime/24fire-api-cli)
 
 </div>
 
@@ -127,8 +127,8 @@ I'm always interested in collaborating on interesting projects, especially in:
 
 ### 📫 Reach Me
 
-- 📧 **Personal:** [i-am@Anomaly Runtime.de](mailto:i-am@Anomaly Runtime.de)
-- 🌐 **Website:** [Anomaly Runtime.de](https://about.Anomaly Runtime.de)
+- 📧 **Personal:** [i-am@Anomaly Runtime.de](mailto:i-am@anomalyruntime.com)
+- 🌐 **Website:** [Anomaly Runtime.de](https://about.anomalyruntime.com)
 - 💬 **Discord:** [dc.lukas-keller.org](https://dc.lukas-keller.org)
 
 ---
@@ -140,7 +140,7 @@ If you find my projects helpful or interesting:
 - ⭐ **Star** my repositories
 - 🐛 **Report** bugs and issues
 - 🔀 **Contribute** via pull requests
-- ☕ [**Buy Me a Coffee**](https://buymeacoffee.com/Anomaly Runtime)
+- ☕ [**Buy Me a Coffee**](https://buymeacoffee.com/LolgamerHD)
 
 ---
 
@@ -149,7 +149,7 @@ If you find my projects helpful or interesting:
 ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 ### 💡 "When you're coding you will always learn something, even if you have mastered a language." - Anomaly Runtime
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anomaly RuntimeDE&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=AnomalyRuntime&color=blueviolet&style=flat-square)
 
 </div>
 
