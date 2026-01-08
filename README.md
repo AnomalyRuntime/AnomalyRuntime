@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm LolgamerHD
+# 👋 Hi, I'm Anomaly Runtime
 
 ### Software Developer | OS Enthusiast | Server Administrator
 
-[![GitHub followers](https://img.shields.io/github/followers/LolgamerHDDE?style=social)](https://github.com/LolgamerHDDE)
+[![GitHub followers](https://img.shields.io/github/followers/AnomalyRuntime?style=social)](https://github.com/AnomalyRuntime)
 
 </div>
 
@@ -58,7 +58,7 @@ A modern, efficient server operating system built from scratch with custom UEFI 
 - **Tech:** C, Assembly, UEFI
 - **Features:** Custom kernel, driver support, optimized for server environments
 
-### ⚡ [24fire CLI Tool](https://github.com/LolgamerHDDE/24fire-api-cli)
+### ⚡ [24fire CLI Tool](https://github.com/Anomaly RuntimeDE/24fire-api-cli)
 Command-line interface for managing 24fire hosting services directly from the terminal.
 - **Tech:** Python
 - **Features:** API integration, server management, automation tools
@@ -74,11 +74,11 @@ An atmospheric horror game inspired by Bendy and the Ink Machine.
 
 <div align="center">
 
-![LolgamerHD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LolgamerHDDE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Anomaly Runtime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anomaly RuntimeDE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LolgamerHDDE&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anomaly RuntimeDE&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LolgamerHDDE&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anomaly RuntimeDE&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -127,8 +127,8 @@ I'm always interested in collaborating on interesting projects, especially in:
 
 ### 📫 Reach Me
 
-- 📧 **Personal:** [i-am@lolgamerhd.de](mailto:i-am@lolgamerhd.de)
-- 🌐 **Website:** [lolgamerhd.de](https://about.lolgamerhd.de)
+- 📧 **Personal:** [i-am@Anomaly Runtime.de](mailto:i-am@Anomaly Runtime.de)
+- 🌐 **Website:** [Anomaly Runtime.de](https://about.Anomaly Runtime.de)
 - 💬 **Discord:** [dc.lukas-keller.org](https://dc.lukas-keller.org)
 
 ---
@@ -140,16 +140,16 @@ If you find my projects helpful or interesting:
 - ⭐ **Star** my repositories
 - 🐛 **Report** bugs and issues
 - 🔀 **Contribute** via pull requests
-- ☕ [**Buy Me a Coffee**](https://buymeacoffee.com/LolgamerHD)
+- ☕ [**Buy Me a Coffee**](https://buymeacoffee.com/Anomaly Runtime)
 
 ---
 
 <div align="center">
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
-### 💡 "When you're coding you will always learn something, even if you have mastered a language." - LolgamerHD
+### 💡 "When you're coding you will always learn something, even if you have mastered a language." - Anomaly Runtime
 
-![Profile Views](https://komarev.com/ghpvc/?username=LolgamerHDDE&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Anomaly RuntimeDE&color=blueviolet&style=flat-square)
 
 </div>
 
