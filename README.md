@@ -111,6 +111,7 @@ timeline
         13 Years Old : Unity, Assembly, C, C#
     section Professional
         14 Years Old : OS Development & CLI Tools
+        15 Years Old : C++
 ```
 
 > **Note:** Continuously learning and expanding my skill set!
