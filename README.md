@@ -128,8 +128,8 @@ I'm always interested in collaborating on interesting projects, especially in:
 
 ### 📫 Reach Me
 
-- 📧 **Personal:** [i-am@Anomaly Runtime.de](mailto:i-am@anomalyruntime.com)
-- 🌐 **Website:** [Anomaly Runtime.de](https://about.anomalyruntime.com)
+- 📧 **Personal:** [i-am@anomalyruntime.com](mailto:i-am@anomalyruntime.com)
+- 🌐 **Website:** [anomalyruntime.com](https://about.anomalyruntime.com)
 - 💬 **Discord:** [dc.lukas-keller.org](https://dc.lukas-keller.org)
 
 ---
